@@ -1,0 +1,65 @@
+
+header h1 {
+  font-family: monospace;
+  font-size: 60px;
+  text-align:center;
+  margin: auto;
+  
+}
+
+main{
+  text-align: center;
+  
+}
+
+header h2{
+  font-size: 20px;
+  text-align: center;
+  font-family: "serif";
+
+  
+}
+
+h3 {
+  font-size: 30px;
+  text-align: center;
+  font-family: "comic sans ms";
+}
+
+h4 {
+  font-size: 30px;
+  text-align: center;
+  font-family: "comic sans ms";
+
+  
+}
+
+h5 {
+font-size: 30px;
+  text-align: center;
+  font-family: "comic sans ms";
+
+  
+}
+
+header {
+  padding: 0px 0 0 0px;
+  margin: 0;
+  background-color: gray;
+  height: 130px;
+  
+}
+
+body {
+  background-color: lightgray;
+  margin: 0;
+}
+
+footer {
+  padding: 0px 0 0 px;
+  margin: auto;
+  background-color: gray;
+  height: 30px;
+  text-align: center;
+  
+}
