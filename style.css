@@ -1,5 +1,5 @@
 
-header h1 {
+header h1 { /* I used header h1 as h1 in the index.html */
   font-family: monospace;
   font-size: 60px;
   text-align:center;
@@ -12,7 +12,7 @@ main{
   
 }
 
-header h2{
+header h2{ /* I used header h2 as h2 in the index.html */
   font-size: 20px;
   text-align: center;
   font-family: "serif";
@@ -41,7 +41,7 @@ font-size: 30px;
 
   
 }
-
+/* This will add color to my header */
 header {
   padding: 0px 0 0 0px;
   margin: 0;
@@ -63,4 +63,12 @@ footer {
   text-align: center;
   
 }
-a:link { color: blue; } a:visited { color: purple; } a:link:hover { color: green; } a:visited:hover { color: red; }
+/* 
+a:link { color: blue; 
+} 
+a:visited { color: purple; 
+} 
+a:link:hover { color: green; 
+} 
+a:visited:hover { color: red; 
+}
