@@ -1,7 +1,7 @@
 
-header h1 { /* I used header h1 as h1 in the index.html */
+header h2 { /* I used header h1 as h1 in the index.html */
   font-family: monospace;
-  font-size: 60px;
+  font-size: 45px;
   text-align:center;
   margin: auto;
   
@@ -12,10 +12,7 @@ main{
   
 }
 
-header h2{ /* I used header h2 as h2 in the index.html */
-  font-size: 20px;
-  text-align: center;
-  font-family: "serif";
+
 
   
 }
